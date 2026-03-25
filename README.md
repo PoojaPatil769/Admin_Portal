@@ -1,10 +1,5 @@
 
 
-
-
-
-
-
 # 🚀 Admin_Portal
 
 Welcome to the Admin_Portal repository.

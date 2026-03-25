@@ -1,0 +1,46 @@
+<suite name="Suite" parallel="tests" thread-count="3">
+
+    <listeners>
+        <listener class-name="Listeners.ExtentTestListener"/>
+    </listeners>
+
+    <test name="ChromeTest">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="TestClass.TC_001RegisterTest"/>
+            <class name="TestClass.TC_002LoginTest"/>
+            <class name="TestClass.TC_003_DashboardTest"/>
+            <class name="TestClass.TC_004_AddUserTest"/>
+            <class name="TestClass.TC_005_OperatorsTest"/>
+            <class name="TestClass.TC_006_UsefulLinksTest"/>
+            <class name="TestClass.TC_007_DownloadsTest"/>
+        </classes>
+    </test>
+
+    <test name="FirefoxTest">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="TestClass.TC_001RegisterTest"/>
+            <class name="TestClass.TC_002LoginTest"/>
+            <class name="TestClass.TC_003_DashboardTest"/>
+            <class name="TestClass.TC_004_AddUserTest"/>
+            <class name="TestClass.TC_005_OperatorsTest"/>
+            <class name="TestClass.TC_006_UsefulLinksTest"/>
+            <class name="TestClass.TC_007_DownloadsTest"/>
+        </classes>
+    </test>
+
+    <test name="EdgeTest">
+        <parameter name="browser" value="edge"/>
+        <classes>
+            <class name="TestClass.TC_001RegisterTest"/>
+            <class name="TestClass.TC_002LoginTest"/>
+            <class name="TestClass.TC_003_DashboardTest"/>
+            <class name="TestClass.TC_004_AddUserTest"/>
+            <class name="TestClass.TC_005_OperatorsTest"/>
+            <class name="TestClass.TC_006_UsefulLinksTest"/>
+            <class name="TestClass.TC_007_DownloadsTest"/>
+        </classes>
+    </test>
+
+</suite>

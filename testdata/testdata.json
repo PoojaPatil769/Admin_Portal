@@ -1,0 +1,115 @@
+{
+  "loginData": [
+    {
+      "TC_ID": "LOG_01",
+      "email": "kiran@kiranacademy.com",
+      "password": "123456",
+      "exp": "success"
+    },
+    {
+      "TC_ID": "LOG_02",
+      "email": "abc@gmail.com",
+      "password": "676969",
+      "exp": "both_invalid"
+    },
+    {
+      "TC_ID": "LOG_03",
+      "email": "bgh@gmail.com",
+      "password": "123456",
+      "exp": "wrong_email"
+    },
+    {
+      "TC_ID": "LOG_04",
+      "email": "kiran@kiranacademy.com",
+      "password": "PPSa123",
+      "exp": "wrong_password"
+    },
+    {
+      "TC_ID": "LOG_05",
+      "email": "",
+      "password": "123456",
+      "exp": "empty_email"
+    },
+    {
+      "TC_ID": "LOG_06",
+      "email": "kiran@kiranacademy.com",
+      "password": "",
+      "exp": "empty_pass"
+    }
+  ],
+  "addUserData": [
+
+      {
+        "TC_ID":"AU_01",
+        "name":"Pooja",
+        "mobile":"9876543210",
+        "email":"pooja@gmail.com",
+        "course":"Java",
+        "state":"Maharashtra",
+        "password":"123456",
+        "exp":"success"
+      },
+
+      {
+        "TC_ID":"AU_02",
+        "name":"",
+        "mobile":"9876543210",
+        "email":"test@gmail.com",
+        "course":"Java",
+        "state":"Delhi",
+        "password":"123456",
+        "exp":"name_error"
+      },
+
+      {
+        "TC_ID":"AU_03",
+        "name":"Rahul",
+        "mobile":"9876543210",
+        "email":"",
+        "course":"Java",
+        "state":"Punjab",
+        "password":"123456",
+        "exp":"email_error"
+      },
+
+      {
+        "TC_ID":"AU_04",
+        "name":"Amit",
+        "mobile":"9876543210",
+        "email":"amit@gmail.com",
+        "course":"Java",
+        "state":"HP",
+        "password":"",
+        "exp":"password_error"
+      }
+
+    ],
+  "operatorsData": [
+    {
+      "TC_ID": "OP_01",
+      "expectedTitle": "Admin Portal | Operators",
+      "expectedHeading": "Operators",
+      "expectedRows": "5",
+      "keyPerson": "Kiran",
+      "keyContact": "9552343698"
+    }
+  ],
+  "usefulLinksData": [
+    {
+      "TC_ID": "UL_01",
+      "expectedTitle": "Admin Portal | Useful Links",
+      "expectedHeading": "Useful Links",
+      "expectedRows": "6"
+    }
+  ],
+  "downloadsData": [
+    {
+      "TC_ID": "DL_01",
+      "expectedTitle": "Admin Portal | Downloads",
+      "expectedHeading": "Downloads",
+      "expectedRows": "7"
+    }
+  ]
+}
+  
+

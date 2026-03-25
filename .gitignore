@@ -1,0 +1,10 @@
+target/
+test-output/
+logs/
+
+.classpath
+.settings/
+*.iml
+
+.DS_Store
+Thumbs.db

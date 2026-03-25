@@ -45,7 +45,7 @@ ___
 | 📝 Log4j2             | Logging Framework        |
 | ⚙️ Maven              | Dependency Management    |
 | 🔧 Git / GitHub       | Version Control          |
-| 🔧   CI/CD            |      Jenkins             |
+| 🔧 CI/CD            |      Jenkins             |
 
 ---
 🔗 Application Under Test (AUT)
@@ -390,7 +390,7 @@ Same page → Maven
 4. Source Code Management
  
      Git Repo URL:
-     https://github.com/PoojaPatil769/Automation-Training-Portal.git
+     https://github.com/PoojaPatil769/Admin_Portal.git
 
 ---
  Open CMD and run:

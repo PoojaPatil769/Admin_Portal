@@ -1,0 +1,340 @@
+2026-03-25 11:44:11 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\WorkSpace\Pooja_Workspace\selenium\Eclipse workspace\Admin-Portal\testng.xml] otherwise TestNG may fail or not work as expected.
+2026-03-25 11:44:11 INFO  Utils:112 - [TestNG] Running:
+  C:\WorkSpace\Pooja_Workspace\selenium\Eclipse workspace\Admin-Portal\testng.xml
+
+2026-03-25 11:44:18 INFO  TC_003_DashboardTest:22 - Login successful
+2026-03-25 11:44:18 INFO  TC_003_DashboardTest:22 - Login successful
+2026-03-25 11:44:19 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_01 *****
+2026-03-25 11:44:19 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_01 *****
+2026-03-25 11:44:22 INFO  TC_003_DashboardTest:22 - Login successful
+2026-03-25 11:44:22 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_01 *****
+2026-03-25 11:44:22 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_02 *****
+2026-03-25 11:44:22 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_03 *****
+2026-03-25 11:44:22 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_04 *****
+2026-03-25 11:44:23 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_05 *****
+2026-03-25 11:44:23 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_06 *****
+2026-03-25 11:44:23 INFO  TC_003_DashboardTest:61 - ***** Dashboard Validation Completed *****
+2026-03-25 11:44:23 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_02 *****
+2026-03-25 11:44:24 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_03 *****
+2026-03-25 11:44:24 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_04 *****
+2026-03-25 11:44:24 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_05 *****
+2026-03-25 11:44:24 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_06 *****
+2026-03-25 11:44:24 INFO  TC_003_DashboardTest:61 - ***** Dashboard Validation Completed *****
+2026-03-25 11:44:26 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_02 *****
+2026-03-25 11:44:26 INFO  TC_007_DownloadsTest:26 - Opening application URL: file:/C:/WorkSpace/Pooja_Workspace/selenium/Eclipse%20workspace/Admin-Portal/target/test-classes/static%20Website/index.html
+2026-03-25 11:44:26 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_03 *****
+2026-03-25 11:44:27 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_04 *****
+2026-03-25 11:44:27 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_05 *****
+2026-03-25 11:44:27 INFO  TC_003_DashboardTest:33 - ***** Starting Dashboard Test : DB_06 *****
+2026-03-25 11:44:27 INFO  TC_003_DashboardTest:61 - ***** Dashboard Validation Completed *****
+2026-03-25 11:44:28 INFO  TC_007_DownloadsTest:29 - Logging into application
+2026-03-25 11:44:30 INFO  TC_007_DownloadsTest:26 - Opening application URL: file:/C:/WorkSpace/Pooja_Workspace/selenium/Eclipse%20workspace/Admin-Portal/target/test-classes/static%20Website/index.html
+2026-03-25 11:44:30 INFO  TC_007_DownloadsTest:29 - Logging into application
+2026-03-25 11:44:31 INFO  TC_007_DownloadsTest:32 - Login successful
+2026-03-25 11:44:31 INFO  TC_007_DownloadsTest:76 - Loading Downloads test data from JSON
+2026-03-25 11:44:32 INFO  TC_007_DownloadsTest:38 - Starting Downloads Test Case: DL_01
+2026-03-25 11:44:32 INFO  TC_007_DownloadsTest:32 - Login successful
+2026-03-25 11:44:32 INFO  TC_007_DownloadsTest:76 - Loading Downloads test data from JSON
+2026-03-25 11:44:32 INFO  TC_007_DownloadsTest:38 - Starting Downloads Test Case: DL_01
+2026-03-25 11:44:32 INFO  TC_007_DownloadsTest:42 - Navigated to Downloads Page
+2026-03-25 11:44:32 INFO  TC_007_DownloadsTest:47 - Validating page title
+2026-03-25 11:44:32 INFO  TC_007_DownloadsTest:49 - Expected Title: Admin Portal | Downloads | Actual Title: Admin Portal | Downloads
+2026-03-25 11:44:32 INFO  TC_007_DownloadsTest:52 - Validating page heading
+2026-03-25 11:44:32 INFO  TC_007_DownloadsTest:54 - Expected Heading: Downloads | Actual Heading: Downloads
+2026-03-25 11:44:32 INFO  TC_007_DownloadsTest:57 - Validating number of download items
+2026-03-25 11:44:32 INFO  TC_007_DownloadsTest:59 - Expected Rows: 7 | Actual Rows: 7
+2026-03-25 11:44:32 INFO  TC_007_DownloadsTest:62 - Validating official links
+2026-03-25 11:44:33 INFO  TC_007_DownloadsTest:65 - Validating download links
+2026-03-25 11:44:33 INFO  TC_007_DownloadsTest:70 - Downloads Test Case Completed: DL_01
+2026-03-25 11:44:33 INFO  TC_007_DownloadsTest:26 - Opening application URL: file:/C:/WorkSpace/Pooja_Workspace/selenium/Eclipse%20workspace/Admin-Portal/target/test-classes/static%20Website/index.html
+2026-03-25 11:44:33 INFO  TC_007_DownloadsTest:29 - Logging into application
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:42 - Navigated to Downloads Page
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:47 - Validating page title
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:49 - Expected Title: Admin Portal | Downloads | Actual Title: Admin Portal | Downloads
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:52 - Validating page heading
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:54 - Expected Heading: Downloads | Actual Heading: Downloads
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:57 - Validating number of download items
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:32 - Login successful
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:76 - Loading Downloads test data from JSON
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:38 - Starting Downloads Test Case: DL_01
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:59 - Expected Rows: 7 | Actual Rows: 7
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:62 - Validating official links
+2026-03-25 11:44:36 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:36 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:65 - Validating download links
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:42 - Navigated to Downloads Page
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:47 - Validating page title
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:49 - Expected Title: Admin Portal | Downloads | Actual Title: Admin Portal | Downloads
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:52 - Validating page heading
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:54 - Expected Heading: Downloads | Actual Heading: Downloads
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:57 - Validating number of download items
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:59 - Expected Rows: 7 | Actual Rows: 7
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:62 - Validating official links
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:70 - Downloads Test Case Completed: DL_01
+2026-03-25 11:44:36 INFO  TC_007_DownloadsTest:65 - Validating download links
+2026-03-25 11:44:37 INFO  TC_007_DownloadsTest:70 - Downloads Test Case Completed: DL_01
+2026-03-25 11:44:37 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_01
+2026-03-25 11:44:38 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:38 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:39 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_02
+2026-03-25 11:44:39 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:39 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:39 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:39 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:40 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_03
+2026-03-25 11:44:40 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:40 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:40 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_01
+2026-03-25 11:44:41 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_04
+2026-03-25 11:44:41 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:41 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:41 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:41 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:42 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_02
+2026-03-25 11:44:42 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:42 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:42 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_05
+2026-03-25 11:44:42 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:42 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:43 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_03
+2026-03-25 11:44:43 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_06
+2026-03-25 11:44:43 INFO  TC_002LoginTest:72 - ***** All Login Tests Completed *****
+2026-03-25 11:44:43 INFO  TC_002LoginTest:73 -  page navigate login  To dashboard.
+2026-03-25 11:44:43 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:43 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:44 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_04
+2026-03-25 11:44:45 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:45 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:45 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_05
+2026-03-25 11:44:46 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:46 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:46 INFO  TC_005_OperatorsTest:26 - Opening application URL: file:/C:/WorkSpace/Pooja_Workspace/selenium/Eclipse%20workspace/Admin-Portal/target/test-classes/static%20Website/index.html
+2026-03-25 11:44:46 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:46 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:47 INFO  TC_005_OperatorsTest:29 - Logging into application
+2026-03-25 11:44:47 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_06
+2026-03-25 11:44:47 INFO  TC_002LoginTest:72 - ***** All Login Tests Completed *****
+2026-03-25 11:44:47 INFO  TC_002LoginTest:73 -  page navigate login  To dashboard.
+2026-03-25 11:44:47 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_01
+2026-03-25 11:44:48 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:48 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:48 INFO  TC_005_OperatorsTest:32 - Login successful
+2026-03-25 11:44:48 INFO  TC_005_OperatorsTest:71 - Loading Operators test data from JSON file
+2026-03-25 11:44:48 INFO  TC_005_OperatorsTest:39 - Starting Operators Test Case: OP_01
+2026-03-25 11:44:48 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_02
+2026-03-25 11:44:49 INFO  TC_005_OperatorsTest:43 - Clicked on Operators menu
+2026-03-25 11:44:49 INFO  TC_005_OperatorsTest:48 - Validating page title
+2026-03-25 11:44:49 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:49 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:49 INFO  TC_005_OperatorsTest:51 - Validating page heading
+2026-03-25 11:44:49 INFO  TC_005_OperatorsTest:54 - Validating number of operators
+2026-03-25 11:44:49 INFO  TC_005_OperatorsTest:56 - Expected rows: 5 | Actual rows: 5
+2026-03-25 11:44:49 INFO  TC_005_OperatorsTest:60 - Checking if operator exists: Kiran | Contact: 9552343698
+2026-03-25 11:44:49 INFO  TC_005_OperatorsTest:65 - Operators Test Case Completed: OP_01
+2026-03-25 11:44:49 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_03
+2026-03-25 11:44:50 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:50 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:50 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_04
+2026-03-25 11:44:50 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:50 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:50 INFO  TC_005_OperatorsTest:26 - Opening application URL: file:/C:/WorkSpace/Pooja_Workspace/selenium/Eclipse%20workspace/Admin-Portal/target/test-classes/static%20Website/index.html
+2026-03-25 11:44:50 INFO  TC_005_OperatorsTest:29 - Logging into application
+2026-03-25 11:44:50 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_05
+2026-03-25 11:44:50 INFO  TC_002LoginTest:27 - ***** Starting LoginTest **
+2026-03-25 11:44:50 INFO  TC_002LoginTest:29 - ***** opened login page **
+2026-03-25 11:44:50 INFO  TC_002LoginTest:35 - login attempted for tcId LOG_06
+2026-03-25 11:44:50 INFO  TC_002LoginTest:72 - ***** All Login Tests Completed *****
+2026-03-25 11:44:50 INFO  TC_002LoginTest:73 -  page navigate login  To dashboard.
+2026-03-25 11:44:51 INFO  TC_005_OperatorsTest:32 - Login successful
+2026-03-25 11:44:51 INFO  TC_005_OperatorsTest:71 - Loading Operators test data from JSON file
+2026-03-25 11:44:51 INFO  TC_005_OperatorsTest:39 - Starting Operators Test Case: OP_01
+2026-03-25 11:44:52 INFO  TC_005_OperatorsTest:43 - Clicked on Operators menu
+2026-03-25 11:44:52 INFO  TC_005_OperatorsTest:48 - Validating page title
+2026-03-25 11:44:52 INFO  TC_005_OperatorsTest:51 - Validating page heading
+2026-03-25 11:44:52 INFO  TC_005_OperatorsTest:54 - Validating number of operators
+2026-03-25 11:44:52 INFO  TC_005_OperatorsTest:56 - Expected rows: 5 | Actual rows: 5
+2026-03-25 11:44:52 INFO  TC_005_OperatorsTest:60 - Checking if operator exists: Kiran | Contact: 9552343698
+2026-03-25 11:44:52 INFO  TC_005_OperatorsTest:65 - Operators Test Case Completed: OP_01
+2026-03-25 11:44:52 INFO  TC_001RegisterTest:26 - ***** Starting Register Test **
+2026-03-25 11:44:53 INFO  TC_001RegisterTest:34 - ***** clicked register link **
+2026-03-25 11:44:54 INFO  TC_001RegisterTest:48 - Alert Message : User registered successfully.
+2026-03-25 11:44:54 INFO  TC_001RegisterTest:26 - ***** Starting Register Test **
+2026-03-25 11:44:55 INFO  TC_001RegisterTest:34 - ***** clicked register link **
+2026-03-25 11:44:55 INFO  TC_001RegisterTest:26 - ***** Starting Register Test **
+2026-03-25 11:44:55 INFO  TC_001RegisterTest:55 - Name Error : Please enter Name.
+2026-03-25 11:44:55 INFO  TC_001RegisterTest:34 - ***** clicked register link **
+2026-03-25 11:44:56 INFO  TC_001RegisterTest:26 - ***** Starting Register Test **
+2026-03-25 11:44:56 INFO  TC_001RegisterTest:48 - Alert Message : User registered successfully.
+2026-03-25 11:44:56 INFO  TC_001RegisterTest:26 - ***** Starting Register Test **
+2026-03-25 11:44:56 INFO  TC_001RegisterTest:34 - ***** clicked register link **
+2026-03-25 11:44:57 INFO  TC_001RegisterTest:34 - ***** clicked register link **
+2026-03-25 11:44:57 INFO  TC_001RegisterTest:62 - Mobile Error : Please enter Mobile.
+2026-03-25 11:44:57 INFO  TC_001RegisterTest:26 - ***** Starting Register Test **
+2026-03-25 11:44:58 INFO  TC_001RegisterTest:55 - Name Error : Please enter Name.
+2026-03-25 11:44:58 INFO  TC_001RegisterTest:26 - ***** Starting Register Test **
+2026-03-25 11:44:58 INFO  TC_001RegisterTest:34 - ***** clicked register link **
+2026-03-25 11:44:58 INFO  TC_001RegisterTest:34 - ***** clicked register link **
+2026-03-25 11:44:58 INFO  TC_001RegisterTest:69 - Email Error : Please enter Email.
+2026-03-25 11:44:59 INFO  TC_001RegisterTest:62 - Mobile Error : Please enter Mobile.
+2026-03-25 11:44:59 INFO  TC_001RegisterTest:26 - ***** Starting Register Test **
+2026-03-25 11:45:00 INFO  TC_001RegisterTest:34 - ***** clicked register link **
+2026-03-25 11:45:00 INFO  TC_005_OperatorsTest:26 - Opening application URL: file:/C:/WorkSpace/Pooja_Workspace/selenium/Eclipse%20workspace/Admin-Portal/target/test-classes/static%20Website/index.html
+2026-03-25 11:45:00 INFO  TC_001RegisterTest:26 - ***** Starting Register Test **
+2026-03-25 11:45:00 INFO  TC_005_OperatorsTest:29 - Logging into application
+2026-03-25 11:45:00 INFO  TC_001RegisterTest:34 - ***** clicked register link **
+2026-03-25 11:45:00 INFO  TC_001RegisterTest:76 - Password Error : Please enter Password.
+2026-03-25 11:45:00 INFO  TC_001RegisterTest:86 - ***** All register Tests Completed *****
+2026-03-25 11:45:00 INFO  TC_001RegisterTest:87 -  page navigate  register To login.
+2026-03-25 11:45:01 INFO  TC_001RegisterTest:69 - Email Error : Please enter Email.
+2026-03-25 11:45:01 INFO  TC_005_OperatorsTest:32 - Login successful
+2026-03-25 11:45:01 INFO  TC_005_OperatorsTest:71 - Loading Operators test data from JSON file
+2026-03-25 11:45:01 INFO  TC_005_OperatorsTest:39 - Starting Operators Test Case: OP_01
+2026-03-25 11:45:01 INFO  TC_005_OperatorsTest:43 - Clicked on Operators menu
+2026-03-25 11:45:01 INFO  TC_005_OperatorsTest:48 - Validating page title
+2026-03-25 11:45:01 INFO  TC_005_OperatorsTest:51 - Validating page heading
+2026-03-25 11:45:01 INFO  TC_005_OperatorsTest:54 - Validating number of operators
+2026-03-25 11:45:01 INFO  TC_005_OperatorsTest:56 - Expected rows: 5 | Actual rows: 5
+2026-03-25 11:45:01 INFO  TC_005_OperatorsTest:60 - Checking if operator exists: Kiran | Contact: 9552343698
+2026-03-25 11:45:01 INFO  TC_005_OperatorsTest:65 - Operators Test Case Completed: OP_01
+2026-03-25 11:45:02 INFO  TC_001RegisterTest:26 - ***** Starting Register Test **
+2026-03-25 11:45:02 INFO  TC_001RegisterTest:34 - ***** clicked register link **
+2026-03-25 11:45:03 INFO  TC_001RegisterTest:76 - Password Error : Please enter Password.
+2026-03-25 11:45:04 INFO  TC_001RegisterTest:86 - ***** All register Tests Completed *****
+2026-03-25 11:45:04 INFO  TC_001RegisterTest:87 -  page navigate  register To login.
+2026-03-25 11:45:06 INFO  TC_006_UsefulLinksTest:41 - *****usefullinks Validation Completed *****
+2026-03-25 11:45:09 INFO  TC_006_UsefulLinksTest:41 - *****usefullinks Validation Completed *****
+2026-03-25 11:45:09 INFO  TC_004_AddUserTest:27 - Opening application URL: file:/C:/WorkSpace/Pooja_Workspace/selenium/Eclipse%20workspace/Admin-Portal/target/test-classes/static%20Website/index.html
+2026-03-25 11:45:09 INFO  TC_004_AddUserTest:30 - Logging into application
+2026-03-25 11:45:10 INFO  TC_004_AddUserTest:33 - Login completed successfully
+2026-03-25 11:45:10 INFO  TC_004_AddUserTest:39 - Starting verifyUsersPageAndDelete test
+2026-03-25 11:45:11 INFO  TC_004_AddUserTest:43 - Clicked on Users menu
+2026-03-25 11:45:11 INFO  TC_004_AddUserTest:48 - Verifying page title and heading
+2026-03-25 11:45:11 INFO  TC_004_AddUserTest:52 - Verifying user count
+2026-03-25 11:45:11 INFO  TC_004_AddUserTest:55 - Trying to delete default user
+2026-03-25 11:45:11 INFO  TC_004_AddUserTest:59 - Deleting row tr_2 user
+2026-03-25 11:45:11 INFO  TC_004_AddUserTest:68 - Delete alert message: User deleted successfully.
+2026-03-25 11:45:11 INFO  TC_004_AddUserTest:76 - verifyUsersPageAndDelete test completed
+2026-03-25 11:45:11 INFO  TC_004_AddUserTest:174 - Loading Add User test data from JSON
+2026-03-25 11:45:11 INFO  TC_004_AddUserTest:83 - Starting Add User Test Case: AU_01
+2026-03-25 11:45:12 INFO  TC_004_AddUserTest:27 - Opening application URL: file:/C:/WorkSpace/Pooja_Workspace/selenium/Eclipse%20workspace/Admin-Portal/target/test-classes/static%20Website/index.html
+2026-03-25 11:45:12 INFO  TC_004_AddUserTest:94 - Verifying Add User page title and heading
+2026-03-25 11:45:12 INFO  TC_004_AddUserTest:99 - Entering user details
+2026-03-25 11:45:12 INFO  TC_004_AddUserTest:30 - Logging into application
+2026-03-25 11:45:13 INFO  TC_001RegisterTest:26 - ***** Starting Register Test **
+2026-03-25 11:45:13 INFO  TC_001RegisterTest:34 - ***** clicked register link **
+2026-03-25 11:45:13 INFO  TC_004_AddUserTest:33 - Login completed successfully
+2026-03-25 11:45:13 INFO  TC_004_AddUserTest:39 - Starting verifyUsersPageAndDelete test
+2026-03-25 11:45:13 INFO  TC_004_AddUserTest:109 - Submitting form for TC: AU_01
+2026-03-25 11:45:13 INFO  TC_004_AddUserTest:115 - Alert received: User Added Successfully. You can not see added user.
+2026-03-25 11:45:13 INFO  TC_004_AddUserTest:144 - Add User Test Case Completed: AU_01
+2026-03-25 11:45:13 INFO  TC_004_AddUserTest:83 - Starting Add User Test Case: AU_02
+2026-03-25 11:45:14 INFO  TC_004_AddUserTest:43 - Clicked on Users menu
+2026-03-25 11:45:14 INFO  TC_004_AddUserTest:48 - Verifying page title and heading
+2026-03-25 11:45:14 INFO  TC_004_AddUserTest:52 - Verifying user count
+2026-03-25 11:45:14 INFO  TC_004_AddUserTest:55 - Trying to delete default user
+2026-03-25 11:45:14 INFO  TC_004_AddUserTest:59 - Deleting row tr_2 user
+2026-03-25 11:45:14 INFO  TC_001RegisterTest:48 - Alert Message : User registered successfully.
+2026-03-25 11:45:14 INFO  TC_004_AddUserTest:94 - Verifying Add User page title and heading
+2026-03-25 11:45:14 INFO  TC_004_AddUserTest:99 - Entering user details
+2026-03-25 11:45:14 INFO  TC_001RegisterTest:26 - ***** Starting Register Test **
+2026-03-25 11:45:14 INFO  TC_004_AddUserTest:68 - Delete alert message: User deleted successfully.
+2026-03-25 11:45:14 INFO  TC_004_AddUserTest:76 - verifyUsersPageAndDelete test completed
+2026-03-25 11:45:14 INFO  TC_004_AddUserTest:174 - Loading Add User test data from JSON
+2026-03-25 11:45:14 INFO  TC_004_AddUserTest:83 - Starting Add User Test Case: AU_01
+2026-03-25 11:45:14 INFO  TC_001RegisterTest:34 - ***** clicked register link **
+2026-03-25 11:45:15 INFO  TC_004_AddUserTest:94 - Verifying Add User page title and heading
+2026-03-25 11:45:15 INFO  TC_004_AddUserTest:99 - Entering user details
+2026-03-25 11:45:15 INFO  TC_001RegisterTest:55 - Name Error : Please enter Name.
+2026-03-25 11:45:15 INFO  TC_001RegisterTest:26 - ***** Starting Register Test **
+2026-03-25 11:45:15 INFO  TC_001RegisterTest:34 - ***** clicked register link **
+2026-03-25 11:45:15 INFO  TC_004_AddUserTest:109 - Submitting form for TC: AU_02
+2026-03-25 11:45:15 WARN  TC_004_AddUserTest:120 - Expecting name validation error
+2026-03-25 11:45:15 INFO  TC_004_AddUserTest:144 - Add User Test Case Completed: AU_02
+2026-03-25 11:45:15 INFO  TC_004_AddUserTest:83 - Starting Add User Test Case: AU_03
+2026-03-25 11:45:15 INFO  TC_001RegisterTest:62 - Mobile Error : Please enter Mobile.
+2026-03-25 11:45:16 INFO  TC_001RegisterTest:26 - ***** Starting Register Test **
+2026-03-25 11:45:16 INFO  TC_001RegisterTest:34 - ***** clicked register link **
+2026-03-25 11:45:16 INFO  TC_004_AddUserTest:94 - Verifying Add User page title and heading
+2026-03-25 11:45:16 INFO  TC_004_AddUserTest:99 - Entering user details
+2026-03-25 11:45:16 INFO  TC_004_AddUserTest:109 - Submitting form for TC: AU_01
+2026-03-25 11:45:16 INFO  TC_004_AddUserTest:115 - Alert received: User Added Successfully. You can not see added user.
+2026-03-25 11:45:16 INFO  TC_004_AddUserTest:144 - Add User Test Case Completed: AU_01
+2026-03-25 11:45:16 INFO  TC_004_AddUserTest:83 - Starting Add User Test Case: AU_02
+2026-03-25 11:45:16 INFO  TC_001RegisterTest:69 - Email Error : Please enter Email.
+2026-03-25 11:45:16 INFO  TC_001RegisterTest:26 - ***** Starting Register Test **
+2026-03-25 11:45:17 INFO  TC_001RegisterTest:34 - ***** clicked register link **
+2026-03-25 11:45:17 INFO  TC_004_AddUserTest:94 - Verifying Add User page title and heading
+2026-03-25 11:45:17 INFO  TC_004_AddUserTest:99 - Entering user details
+2026-03-25 11:45:17 INFO  TC_001RegisterTest:76 - Password Error : Please enter Password.
+2026-03-25 11:45:17 INFO  TC_004_AddUserTest:109 - Submitting form for TC: AU_03
+2026-03-25 11:45:17 WARN  TC_004_AddUserTest:126 - Expecting email validation error
+2026-03-25 11:45:17 INFO  TC_001RegisterTest:86 - ***** All register Tests Completed *****
+2026-03-25 11:45:17 INFO  TC_001RegisterTest:87 -  page navigate  register To login.
+2026-03-25 11:45:17 INFO  TC_004_AddUserTest:144 - Add User Test Case Completed: AU_03
+2026-03-25 11:45:17 INFO  TC_004_AddUserTest:83 - Starting Add User Test Case: AU_04
+2026-03-25 11:45:18 INFO  TC_004_AddUserTest:94 - Verifying Add User page title and heading
+2026-03-25 11:45:18 INFO  TC_004_AddUserTest:99 - Entering user details
+2026-03-25 11:45:18 INFO  TC_004_AddUserTest:109 - Submitting form for TC: AU_02
+2026-03-25 11:45:18 WARN  TC_004_AddUserTest:120 - Expecting name validation error
+2026-03-25 11:45:18 INFO  TC_004_AddUserTest:144 - Add User Test Case Completed: AU_02
+2026-03-25 11:45:18 INFO  TC_004_AddUserTest:83 - Starting Add User Test Case: AU_03
+2026-03-25 11:45:18 INFO  TC_004_AddUserTest:94 - Verifying Add User page title and heading
+2026-03-25 11:45:18 INFO  TC_004_AddUserTest:99 - Entering user details
+2026-03-25 11:45:19 INFO  TC_004_AddUserTest:109 - Submitting form for TC: AU_04
+2026-03-25 11:45:19 WARN  TC_004_AddUserTest:132 - Expecting password validation error
+2026-03-25 11:45:19 INFO  TC_004_AddUserTest:144 - Add User Test Case Completed: AU_04
+2026-03-25 11:45:19 INFO  TC_004_AddUserTest:150 - Starting verifyCancelButton test
+2026-03-25 11:45:19 INFO  TC_004_AddUserTest:109 - Submitting form for TC: AU_03
+2026-03-25 11:45:19 WARN  TC_004_AddUserTest:126 - Expecting email validation error
+2026-03-25 11:45:19 INFO  TC_004_AddUserTest:144 - Add User Test Case Completed: AU_03
+2026-03-25 11:45:19 INFO  TC_004_AddUserTest:83 - Starting Add User Test Case: AU_04
+2026-03-25 11:45:19 INFO  TC_004_AddUserTest:161 - Clicked Cancel button
+2026-03-25 11:45:19 INFO  TC_004_AddUserTest:168 - verifyCancelButton test completed
+2026-03-25 11:45:20 INFO  TC_004_AddUserTest:94 - Verifying Add User page title and heading
+2026-03-25 11:45:20 INFO  TC_004_AddUserTest:99 - Entering user details
+2026-03-25 11:45:21 INFO  TC_004_AddUserTest:109 - Submitting form for TC: AU_04
+2026-03-25 11:45:21 WARN  TC_004_AddUserTest:132 - Expecting password validation error
+2026-03-25 11:45:21 INFO  TC_004_AddUserTest:144 - Add User Test Case Completed: AU_04
+2026-03-25 11:45:21 INFO  TC_004_AddUserTest:150 - Starting verifyCancelButton test
+2026-03-25 11:45:21 INFO  TC_004_AddUserTest:161 - Clicked Cancel button
+2026-03-25 11:45:21 INFO  TC_004_AddUserTest:168 - verifyCancelButton test completed
+2026-03-25 11:45:26 INFO  TC_006_UsefulLinksTest:41 - *****usefullinks Validation Completed *****
+2026-03-25 11:45:33 INFO  TC_004_AddUserTest:27 - Opening application URL: file:/C:/WorkSpace/Pooja_Workspace/selenium/Eclipse%20workspace/Admin-Portal/target/test-classes/static%20Website/index.html
+2026-03-25 11:45:33 INFO  TC_004_AddUserTest:30 - Logging into application
+2026-03-25 11:45:34 INFO  TC_004_AddUserTest:33 - Login completed successfully
+2026-03-25 11:45:34 INFO  TC_004_AddUserTest:39 - Starting verifyUsersPageAndDelete test
+2026-03-25 11:45:34 INFO  TC_004_AddUserTest:43 - Clicked on Users menu
+2026-03-25 11:45:34 INFO  TC_004_AddUserTest:48 - Verifying page title and heading
+2026-03-25 11:45:34 INFO  TC_004_AddUserTest:52 - Verifying user count
+2026-03-25 11:45:34 INFO  TC_004_AddUserTest:55 - Trying to delete default user
+2026-03-25 11:45:34 INFO  TC_004_AddUserTest:59 - Deleting row tr_2 user
+2026-03-25 11:45:35 INFO  TC_004_AddUserTest:68 - Delete alert message: 
+2026-03-25 11:45:35 INFO  TC_004_AddUserTest:76 - verifyUsersPageAndDelete test completed
+2026-03-25 11:45:35 INFO  TC_004_AddUserTest:174 - Loading Add User test data from JSON
+2026-03-25 11:45:35 INFO  TC_004_AddUserTest:83 - Starting Add User Test Case: AU_01
+2026-03-25 11:45:35 INFO  TC_004_AddUserTest:94 - Verifying Add User page title and heading
+2026-03-25 11:45:35 INFO  TC_004_AddUserTest:99 - Entering user details
+2026-03-25 11:45:35 INFO  TC_004_AddUserTest:109 - Submitting form for TC: AU_01
+2026-03-25 11:45:36 INFO  TC_004_AddUserTest:115 - Alert received: User Added Successfully. You can not see added user.
+2026-03-25 11:45:36 INFO  TC_004_AddUserTest:144 - Add User Test Case Completed: AU_01
+2026-03-25 11:45:36 INFO  TC_004_AddUserTest:83 - Starting Add User Test Case: AU_02
+2026-03-25 11:45:36 INFO  TC_004_AddUserTest:94 - Verifying Add User page title and heading
+2026-03-25 11:45:36 INFO  TC_004_AddUserTest:99 - Entering user details
+2026-03-25 11:45:36 INFO  TC_004_AddUserTest:109 - Submitting form for TC: AU_02
+2026-03-25 11:45:36 WARN  TC_004_AddUserTest:120 - Expecting name validation error
+2026-03-25 11:45:37 INFO  TC_004_AddUserTest:144 - Add User Test Case Completed: AU_02
+2026-03-25 11:45:37 INFO  TC_004_AddUserTest:83 - Starting Add User Test Case: AU_03
+2026-03-25 11:45:37 INFO  TC_004_AddUserTest:94 - Verifying Add User page title and heading
+2026-03-25 11:45:37 INFO  TC_004_AddUserTest:99 - Entering user details
+2026-03-25 11:45:37 INFO  TC_004_AddUserTest:109 - Submitting form for TC: AU_03
+2026-03-25 11:45:37 WARN  TC_004_AddUserTest:126 - Expecting email validation error
+2026-03-25 11:45:37 INFO  TC_004_AddUserTest:144 - Add User Test Case Completed: AU_03
+2026-03-25 11:45:37 INFO  TC_004_AddUserTest:83 - Starting Add User Test Case: AU_04
+2026-03-25 11:45:38 INFO  TC_004_AddUserTest:94 - Verifying Add User page title and heading
+2026-03-25 11:45:38 INFO  TC_004_AddUserTest:99 - Entering user details
+2026-03-25 11:45:38 INFO  TC_004_AddUserTest:109 - Submitting form for TC: AU_04
+2026-03-25 11:45:38 WARN  TC_004_AddUserTest:132 - Expecting password validation error
+2026-03-25 11:45:38 INFO  TC_004_AddUserTest:144 - Add User Test Case Completed: AU_04
+2026-03-25 11:45:38 INFO  TC_004_AddUserTest:150 - Starting verifyCancelButton test
+2026-03-25 11:45:39 INFO  TC_004_AddUserTest:161 - Clicked Cancel button
+2026-03-25 11:45:39 INFO  TC_004_AddUserTest:168 - verifyCancelButton test completed

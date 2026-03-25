@@ -241,13 +241,13 @@ This project is integrated with Jenkins for Continuous Integration.
 Below is the sample build execution output:
 
 📸 Jenkins Build Dashboard
-<img width="1190" height="347" alt="Image" src="https://github.com/user-attachments/assets/e1994966-b140-4ed1-a95a-6700134cf916" />
+<img width="1237" height="329" alt="Image" src="https://github.com/user-attachments/assets/888717bb-035b-465f-a761-459096523234" />
 
 ## 📊 Console Output
-<img width="1212" height="159" alt="Image" src="https://github.com/user-attachments/assets/4cc47df3-5a12-45bd-a926-a8db6dddd596" />
+<img width="1032" height="228" alt="Image" src="https://github.com/user-attachments/assets/9253dbe0-b658-49d1-a44f-373aa676cb50" />
 
 ✅ Test Execution Summary
-<img width="651" height="229" alt="Image" src="https://github.com/user-attachments/assets/957c82b7-dea9-45a7-b7d3-c2f1f008ae96" />
+<img width="1036" height="218" alt="Image" src="https://github.com/user-attachments/assets/865d5f09-1e22-418a-9194-d0783e5b3014" />
 
 🔹 Using Jenkins
 
@@ -258,8 +258,6 @@ Set branch: main
 Add Maven goal: clean test
 
 Click Build Now
-
-
 
 ==============================================
 # QA Automation Framework - Learning Guide
@@ -406,7 +404,7 @@ Same page → Maven
   
     http://localhost:8080
 
-- AutomationTrainingPortal
+- AdminPortal
 - Build Now ▶️
 
 

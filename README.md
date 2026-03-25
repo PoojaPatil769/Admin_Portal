@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 # 🚀 Admin_Portal
 
 Welcome to the Admin_Portal repository.
@@ -94,7 +101,7 @@ This page is a critical functional area, as all secured modules depend on succes
 
 ✔ Verification of error messages (if credentials are incorrect)
 
-<img width="1273" height="662" alt="Image" src="https://github.com/user-attachments/assets/3a34fece-6d32-4b0d-9feb-804dcef43150" />
+<img width="1266" height="659" alt="Image" src="https://github.com/user-attachments/assets/238d802f-0c79-4ad9-8d7c-2400450e6e2c" />
 ____
 
 
@@ -113,7 +120,7 @@ It plays a key role in validating new user onboarding workflows.
 - **Verify navigation to the Login page after successful registration:**
 - **register new  membership link:**
 
-<img width="1265" height="655" alt="Image" src="https://github.com/user-attachments/assets/179eb097-52db-4301-bf3d-cf28b620065e" />
+<img width="1277" height="659" alt="Image" src="https://github.com/user-attachments/assets/28aa3d50-94cc-47c1-9473-6154e19b4b0b" />
 
 ---
 
@@ -180,7 +187,7 @@ ___
 - **Print all operator names for verification and logging:**
 - **Operators page header visibility:**
 
-<img width="1276" height="664" alt="Image" src="https://github.com/user-attachments/assets/a8c7b391-5d03-47cd-bf0e-f2fc02c745da" />
+<img width="1280" height="640" alt="Image" src="https://github.com/user-attachments/assets/a7217dcb-7522-4250-8e0d-fa9f8b33d125" />
 
 ___
 
@@ -195,7 +202,7 @@ ___
 - **Validate total number of links displayed:**
 - **Validate if all content names are present there or not:**
 
-<img width="1280" height="636" alt="Image" src="https://github.com/user-attachments/assets/2dd994f4-a408-458b-b344-8a5b26fa744f" />
+<img width="1280" height="640" alt="Image" src="https://github.com/user-attachments/assets/3aac8591-7036-4189-8eef-20138d148be3" />
 
 ____
 
@@ -217,7 +224,7 @@ Here, I did cross-browser testing
 
 ⬢ Test Execution Summary
 
-<img width="1280" height="678" alt="Image" src="https://github.com/user-attachments/assets/fd8798e0-3fca-4409-8fd1-497512de41ce" />
+<img width="1271" height="708" alt="Image" src="https://github.com/user-attachments/assets/22db044a-f6ba-4dea-ad8f-2ffd1c0cb65a" />
 ___
 
 Report

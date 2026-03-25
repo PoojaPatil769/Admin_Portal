@@ -216,8 +216,7 @@ ____
 - **Validate software names and vendor information:**
 - **Verify Official Website buttons:**
 
-<img width="1259" height="652" alt="Image" src="https://github.com/user-attachments/assets/f5273feb-8a9c-4153-bbbb-5c79532b6f90" />
-
+<img width="1279" height="631" alt="Image" src="https://github.com/user-attachments/assets/4d189dc1-d6c5-4021-8e9a-eadc967e3de4" />
 ___
 
 Here, I did cross-browser testing 

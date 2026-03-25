@@ -146,7 +146,7 @@ It plays a key role in validating new user onboarding workflows.
 
 • PHP – Web Development
 
-<img width="1279" height="635" alt="Image" src="https://github.com/user-attachments/assets/b7522315-ee64-42b2-8cdf-32d9d0a7a67d" />
+<img width="1279" height="635" alt="Image" src="https://github.com/user-attachments/assets/604d6570-357a-436c-88a9-8ff7374df6ea" />
 
 ____
 
